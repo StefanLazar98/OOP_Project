@@ -1,2 +1,1 @@
-# Proiect_poo
-proiect de echipa Programare Orientata Obiect An2 sem1
+A C++ project that was a task for university
